@@ -77,6 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohitraj72/Mohitraj72/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Mohitraj72/Mohitraj72/output/snake.svg" alt="Snake animation" /> -->
 
 ###
