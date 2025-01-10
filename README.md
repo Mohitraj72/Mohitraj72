@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Mohit Raj from India.<br><br>🔭 I’m currently working on improving Web Development skills.<br>🌱 I’m currently learning Full Stack Development.<br>🤔 I’m looking for help with Web Development.<br>💬 Ask me about Web Development.<br>📫 How to reach me: Insta- Mohitraj_72<br>⚡ Fun fact: Coders are very hard working.</p>
+<p align="left">I'm Mohit Raj from India.<br><br>🔭 I’m currently working on improving Web Development skills.<br>🌱 I’m currently learning Full Stack Development.<br>🤔 I’m looking for help with Web Development.<br>💬 Ask me about Web Development.<br>📫 How to reach me: Insta- @codewithme72<br>⚡ Fun fact: Coders are very hard working.</p>
 
 ###
 
